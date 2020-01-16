@@ -6,9 +6,9 @@ public class ACT5_P1 {
 		float fAltura, fPeso;
 		int iDorsal;
 		
-		fAltura = Float.parseFloat(leer("INTRODUCE UNA ALTURA: "));
-		fPeso = Float.parseFloat(leer("INTRODUCE UN PESO: "));
-		iDorsal = Integer.parseInt(leer("INTRODUCE UN DORSAL: "));
+		fAlturas = Float.parseFloat(leer("INTRODUCE UNA ALTURA: "));
+		fPesos = Float.parseFloat(leer("INTRODUCE UN PESO: "));
+		iDorsales = Integer.parseInt(leer("INTRODUCE UN DORSAL: "));
 
 
 	}
